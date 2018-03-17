@@ -1,0 +1,94 @@
+[
+  {
+    "ID": "001",
+    "Name": "Grace Hopper",
+    "info": "Tümamiral Grace Murray Hopper Amerikalı bilgisayar bilimcisi ve ABD donanmasında rütbeli askerdir. Harvard Mark I bilgisayarının ilk programcılarından biri olan Hopper, bilgisayar programlama dilleri için ilk derleyiciyi geliştirdi"
+  },
+  {
+    "ID": "002",
+    "Name": "Ada Lovelace",
+    "info": " İngiliz matematikçi ve yazardır. Esas olarak Charles Babbage'in erken dönem mekanik genel amaçlı bilgisayarı Analitik Makine üzerindeki çalışmaları ile bilinir. Makine hakkındaki notları, bir bilgisayar tarafından işlenmek üzere yazılan ilk algoritmayı içerir. Bundan dolayı genel kanı dünyanın ilk bilgisayar programcısı olduğudur."
+  },
+  {
+    "ID": "003",
+    "Name": "Anita Borg",
+    "info": "Anita Borg (1949-2003) hayatı boyunca bilgisayar bilimlerindeki kadın temsiliyetini arttırmak ve bu alandaki kadınların birlikte daha güçlü olması için çalışmış Amerikalı bir bilgisayar bilimcisidir. Google, Anita Borg anısına 2004’te bilgisayar bilimleri ve ilişkili alanlarda lisans-lisansüstü öğrencisi kadınları desteklemek için bir program başlatmıştır. Bu program kapsamında tüm dünyada yaklaşık 1000 kadın desteklenmiştir. Türkiye’de eğitim gören kadınlardan ise ilki 2009 yılında olmak üzere toplam 7 kadın Anita Borg ödülüne layık görülmüştür."
+  },
+  {
+    "ID": "004",
+    "Name": "Maria Klawe",
+    "info": "Maria Margaret Klawe (1951 doğumlu), bir bilgisayar bilimcisi ve Harvey Mudd College'in beşinci başkanıdır (1 Temmuz 2006'dan beri). [1] 1951 yılında Toronto'da doğdu, 2009 yılında vatandaşlığa kabul edilen ABD vatandaşı oldu. Daha önce Princeton Üniversitesi'nde Mühendislik ve Uygulamalı Bilimler Fakültesi Dekanı oldu."
+  },
+  {
+    "ID": "005",
+    "Name": "Jean Bartik",
+    "info": "Jean Jennings Bartik, ENIAC bilgisayarı için çalışan ana yazılımcılardan biriydi. Okulda matematik eğitimi aldıktan sonra Pennsylvania Üniversitesi'nde çalışmaya başladı."
+  },
+  {
+    "ID": "006",
+    "Name": "Betty Holberton",
+    "info": "Frances Elizabeth Betty Holberton (7 Mart 1917 - 8 Aralık 2001), ilk genel amaçlı elektronik dijital bilgisayar olan ENIAC'ın altı orijinal programcısından biriydi ve breakpoint mucidi oldu."
+  },
+  {
+    "ID": "007",
+    "Name": "Frances E. Allen",
+    "info": "Frances Elizabeth Fran Allen, Amerikalı bilgisayar bilimcisi. Derleyiciler üzerinde yaptığı iyileştirme çalışmalarıyla tanınmıştır. Allen'ın koşut hesaplama, programlama dilleri ve kod güvenliği konulu araştırmaları da bulunmaktadır."
+  },
+  {
+    "ID": "008",
+    "Name": "Mary Kenneth Keller",
+    "info": "Mary Kenneth Keller, B.V.M. (c. 1913 - 10 Ocak 1985) bilgisayar biliminde Amerikalı bir Roma Katolik , eğitimci ve öncü idi. Doktora yapan ilk kadındı. Amerika Birleşik Devletleri'nde bilgisayar bilimlerinde."
+  },
+  {
+    "ID": "009",
+    "Name": "Frances Spence",
+    "info": "Frances V. Spence (2 Mart 1922 - 18 Temmuz 2012 [1]) ENIAC (ilk dijital bilgisayar) için orijinal programcılardan biriydi. Tarihin ilk bilgisayar programcılarından biri olarak kabul edilir."
+  },
+  {
+    "ID": "010",
+    "Name": "Barbara Liskov",
+    "info": "Barbara Liskov, Amerikalı bilgisayar bilimcisi. Massachusetts Teknoloji Enstitüsü'nde profesör olarak çalışan Liskov Amerika Birleşik Devletleri'nde bilgisayar bilimi doktorası sahibi ilk kadınlardan biridir."
+  },
+  {
+    "ID": "011",
+    "Name": "Margaret Hamilton",
+    "info": "Margaret Heafield Hamilton (17 Ağustos 1936 doğumlu Heafield) Amerikalı bir bilgisayar bilimci, sistem mühendisi ve işletme sahibi. Apollo uzay programı için yerleşik uçuş yazılımı geliştiren MIT Enstrümantasyon Laboratuvarı'nın Yazılım Mühendisliği Bölümü Direktörü idi. 1986'da Cambridge, Massachusetts'te Hamilton Technologies, Inc.'in kurucusu ve CEO'su oldu. Şirket, Sistemler ve yazılım tasarımı için Gerçeklik Öncesi Gelişme (DBTF) paradigması temelinde Evrensel Sistemler Dili etrafında geliştirildi."
+  },
+  {
+    "ID": "012",
+    "Name": "Shafrira Goldwasser",
+    "info": "Shafrira Goldwasser, Amerikalı-İsrailli bilgisayar bilimcisi. Massachusetts Teknoloji Enstitüsü ve Weizmann Enstitüsü'nde profesör olarak çalışmaktadır."
+  },
+  {
+    "ID": "013",
+    "Name": "Emmy Noether"
+  },
+  {
+    "ID": "014",
+    "Name": "Barbara McClintock"
+  },
+  {
+    "ID": "015",
+    "Name": "Chien-Shiung Wu"
+  },
+  {
+    "ID": "016",
+    "Name": "Rachel Carson"
+  },
+  {
+    "ID": "017",
+    "Name": "Grace Hopper"
+  },
+  {
+    "ID": "018",
+    "Name": "Marie Curie"
+  },
+  {
+    "ID": "019",
+    "Name": "Jocelyn Bell Burnell"
+  },
+  {
+    "ID": "020",
+    "Name": "Dorothy Hodgkin"
+  }
+]
